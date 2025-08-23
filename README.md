@@ -11,12 +11,12 @@ Then you need to prepare the pdtb parser: download the files for the parser here
 
 ## 2 GCDC
 To run experiments on GCDC, you should:
-1. Put the processed data under the folder "data/dataset". You can refer to the preprocessing code in Strusim.
+1. Put the processed data under the folder "data/dataset". You can refer to the preprocessing code in [Strusim](https://github.com/liuwei1206/StruSim).
 2. Call the script. For example, you can `sh script/gcdc/fusion.sh` to run experiments on gcdc corpus using the fusion model.
 
 ## 3 TOEFL
 To run experiments on TOEFL, you should:
-1. Put the processed data under the folder "data/dataset". You can refer to the preprocessing code in Strusim.
+1. Put the processed data under the folder "data/dataset". You can refer to the preprocessing code in [Strusim](https://github.com/liuwei1206/StruSim).
 2. Call the script. For example, you can `sh script/toefl/fusion.sh` to run experiments on gcdc corpus using the fusion model.
 
 ## 4 Citation
