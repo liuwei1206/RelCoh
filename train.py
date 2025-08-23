@@ -28,7 +28,7 @@ from transformers import AutoTokenizer, AutoConfig, AutoModelForCausalLM, AutoMo
 from dataset import SentDataset
 from model import TransformerSent, TransformerSentRel, TransformerSentRelFusion, WholeDoc
 
-from fast_utils import labels_from_file
+from utils import labels_from_file
 
 # logging.disable(logging.WARNING)
 
